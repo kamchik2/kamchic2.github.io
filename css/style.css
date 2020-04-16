@@ -8582,7 +8582,7 @@ h1, h2, h3, h4, h5,
     outline: none; }
   .btn.btn-primary {
     background:  linear-gradient(to right, #FFAFBD 0%, #ffc3a0  51%, #FFAFBD  100%);
-    border: 1px solid linear-gradient(to right, #FFAFBD 0%, #ffc3a0  51%, #FFAFBD  100%) !important;
+    border: 1px solid #FFAFBD !important;
     color: #fff !important; }
     .btn.btn-primary:hover {
       border: 1px solid #3e64ff !important;

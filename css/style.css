@@ -44,7 +44,8 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+  -webkit-tap-highlight-color: 
+    a(0, 0, 0, 0); }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
@@ -8402,7 +8403,7 @@ h1, h2, h3, h4, h5,
     content: '';
     opacity: .1;
     width: 50%;
-    background: #radial-gradient(circle at 10% 20%, rgb(255, 189, 189) 0%, rgb(255, 216, 168) 62%, rgb(255, 248, 168) 100.7%); }
+    background:linear-gradient(to right, #FFAFBD 0%, #ffc3a0 51%, #FFAFBD 100%) }
   .hero-wrap .text {
     width: 100%; }
 
